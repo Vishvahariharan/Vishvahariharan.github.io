@@ -24,11 +24,11 @@ sections = ["skills","publications","creations","contributions","experience","ed
 trackerID = "XX-123446-01"
 
 [[params.handles]]
-link = "https://www.linkedin.com/in/sathishkumarthiyagarajan/"
+link = "https://www.linkedin.com/in/vishvahariharan/"
 name = "LinkedIn"
 
 [[params.handles]]
-link = "https://github.com/sathishk/"
+link = "https://github.com/vishvahariharan/"
 name = "GitHub"
 
 [outputs]
